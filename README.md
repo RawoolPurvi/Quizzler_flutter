@@ -3,14 +3,12 @@
 A new Flutter project.
 
 ## Getting Started
+This project demonstrates the implementation of core Object-Oriented Programming (OOP) concepts using Flutter.
 
-This project is a starting point for a Flutter application.
+Encapsulation is applied to protect internal quiz logic and prevent direct access to quiz questions and state, ensuring better control over data flow.
 
-A few resources to get you started if this is your first Flutter project:
+The project explains and demonstrates the use of the Expanded widget to create responsive layouts.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+It also showcases the effective use of buttons to handle user interactions and trigger application logic.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Overall, this project focuses on writing clean, modular, and maintainable Flutter code while reinforcing fundamental OOP principles.
